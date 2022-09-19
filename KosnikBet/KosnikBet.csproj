@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Patterns\Singletone\" />
-    <Folder Include="Patterns\FactoryMethod\" />
     <Folder Include="Patterns\AbstractFactory\" />
     <Folder Include="Models\" />
   </ItemGroup>
