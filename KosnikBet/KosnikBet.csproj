@@ -7,6 +7,7 @@
   <ItemGroup>
     <Folder Include="Patterns\Singletone\" />
     <Folder Include="Models\" />
+    <Folder Include="Patterns\Adapter\" />
   </ItemGroup>
 
 </Project>
