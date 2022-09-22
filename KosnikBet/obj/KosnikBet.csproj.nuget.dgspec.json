@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MohenTohen\\source\\repos\\KosnikBet\\KosnikBet\\KosnikBet.csproj": {}
+    "E:\\Projects\\ProjectForPatternsLab\\Lab_pattern\\KosnikBet\\KosnikBet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MohenTohen\\source\\repos\\KosnikBet\\KosnikBet\\KosnikBet.csproj": {
+    "E:\\Projects\\ProjectForPatternsLab\\Lab_pattern\\KosnikBet\\KosnikBet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MohenTohen\\source\\repos\\KosnikBet\\KosnikBet\\KosnikBet.csproj",
+        "projectUniqueName": "E:\\Projects\\ProjectForPatternsLab\\Lab_pattern\\KosnikBet\\KosnikBet.csproj",
         "projectName": "KosnikBet",
-        "projectPath": "C:\\Users\\MohenTohen\\source\\repos\\KosnikBet\\KosnikBet\\KosnikBet.csproj",
-        "packagesPath": "C:\\Users\\MohenTohen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MohenTohen\\source\\repos\\KosnikBet\\KosnikBet\\obj\\",
+        "projectPath": "E:\\Projects\\ProjectForPatternsLab\\Lab_pattern\\KosnikBet\\KosnikBet.csproj",
+        "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ProjectForPatternsLab\\Lab_pattern\\KosnikBet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MohenTohen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
